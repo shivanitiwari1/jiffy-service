@@ -9,7 +9,7 @@
  //String[] routingUrls={"http://ad.alpasrame.com/adserver/click?pid=56&campaignid=256&clickid=<CLICKID>&pubid="};
 // String[] routingUrls={"http://becanium.com/portent/netbios/acl/1-19292-888a9ca13eb7c699468f5c5a7a8f73db?tvu=test&click_id=<CLICKID>&ext1="};
  String[] routingUrls={"http://wichjoinq.com/portent/netbios/acl/1-19292-c083f29d2ee08e04a8908d8752f911af?tvu=WW_SL_MS&click_id=<CLICKID>&ext1="};
- //http://becanium.com/portent/netbios/acl/1-19292-888a9ca13eb7c699468f5c5a7a8f73db?tvu=test&click_id={REPLACE}&ext1={YOUR subpublid}
+ http://becanium.com/portent/netbios/acl/1-19292-888a9ca13eb7c699468f5c5a7a8f73db?tvu=test&click_id={REPLACE}&ext1={YOUR subpublid}
     int[] routingPercent={100};
     
 %>
